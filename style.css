@@ -2,12 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 body {
-    width: 50vw;
-    height: 100vh;
-    background-image: url("images/donation4.jpg");
-    background-color: white;
-    background-position: center;
-    background-size: cover;
+
+        background: url(images/donation14.webp);
+        background-repeat: no-repeat;
+        background-size: 3000px, 1000000px;
+        background-position: center;
+       
+      
    }
    p{
 
@@ -38,4 +39,11 @@ section{
     background-color: brown;
     padding: 10px 40px;
 
+}
+.Red-Ballon{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    background-origin: content-box;
+    
 }
