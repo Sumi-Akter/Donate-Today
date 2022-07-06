@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    width: 50vw;
+    height: 100vh;
+    background-image: url("images/donation4.jpg");
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+   }
+   p{
+
+   }
+h1{
+    font-size: 50px;
+    
+}
+.Green-color{
+    color: red;
+
+}
+p{
+    color:white;
+}
+section{
+    display: flex;
+}
+.Red-Ballon{
+    width: 50%;
+}
+.Red-Ballon background-image{
+    width: 50% ;
+}
+.Donate-button{
+    color: blanchedalmond;
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 40px;
+
+}
