@@ -2,17 +2,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 body {
-
-        background: url(images/donation14.webp);
-        background-repeat: no-repeat;
-        background-size: 3000px, 1000000px;
-        background-position: center;
-       
-      
-   }
-   p{
-
-   }
+    background: url(images/donation14.webp);
+    background-repeat: no-repeat;
+    background-size: 3000px, 1000000px;
+    background-position: center;
+}
+   
 h1{
     font-size: 50px;
     
